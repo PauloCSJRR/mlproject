@@ -1,1 +1,1 @@
-## Another end to end ML project
+## ML project initial structure
